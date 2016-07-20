@@ -1,10 +1,11 @@
-*How 2 U JSON in Golang*
+# How to Use JSON in Golang
 
 ---- 
 
-***The Easiset Way to Use JSON in Golang***
+### The Easiset Way to Use JSON in Golang
 
-**Usage**
+## **Usage**
+
 ```go
 $ go run main.go
 ```
